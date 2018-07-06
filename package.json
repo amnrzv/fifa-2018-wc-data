@@ -1,0 +1,11 @@
+{
+  "name": "fifa-2018-wc-data",
+  "version": "0.1.0",
+  "description": "Pulling match data from pdfs released by fifa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
