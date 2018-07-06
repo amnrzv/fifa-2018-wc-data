@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "pdf2json": "^1.1.7",
+    "request": "^2.87.0"
+  }
 }
