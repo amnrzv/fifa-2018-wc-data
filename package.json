@@ -11,6 +11,19 @@
   "dependencies": {
     "download-file": "^0.1.5",
     "pdf2json": "^1.1.7",
-    "request": "^2.87.0"
-  }
+    "request": "^2.87.0",
+    "scraperjs": "^1.2.0",
+    "weak": "^1.0.1",
+    "x-ray": "^2.3.3",
+    "x-ray-phantom": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amnrzv/fifa-2018-wc-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amnrzv/fifa-2018-wc-data/issues"
+  },
+  "homepage": "https://github.com/amnrzv/fifa-2018-wc-data#readme"
 }

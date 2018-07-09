@@ -1,0 +1,100 @@
+[
+  {
+    "name": "MUSLERA",
+    "time": "97m10s",
+    "distanceRan": "3257",
+    "sprints": "1",
+    "topSpeed": "20.09"
+  },
+  {
+    "name": "GIMENEZ",
+    "time": "97m10s",
+    "distanceRan": "9140",
+    "sprints": "24",
+    "topSpeed": "25.92"
+  },
+  {
+    "name": "GODIN",
+    "time": "97m10s",
+    "distanceRan": "9145",
+    "sprints": "16",
+    "topSpeed": "25.74"
+  },
+  {
+    "name": "BENTANCUR",
+    "time": "60m56s",
+    "distanceRan": "6799",
+    "sprints": "23",
+    "topSpeed": "31.50"
+  },
+  {
+    "name": "NANDEZ",
+    "time": "74m50s",
+    "distanceRan": "8349",
+    "sprints": "44",
+    "topSpeed": "27.90"
+  },
+  {
+    "name": "SUAREZ",
+    "time": "97m10s",
+    "distanceRan": "8610",
+    "sprints": "34",
+    "topSpeed": "28.58"
+  },
+  {
+    "name": "STUANI",
+    "time": "60m34s",
+    "distanceRan": "7009",
+    "sprints": "21",
+    "topSpeed": "24.30"
+  },
+  {
+    "name": "TORREIRA",
+    "time": "97m10s",
+    "distanceRan": "10474",
+    "sprints": "23",
+    "topSpeed": "27.90"
+  },
+  {
+    "name": "VECINO",
+    "time": "97m10s",
+    "distanceRan": "11215",
+    "sprints": "25",
+    "topSpeed": "23.58"
+  },
+  {
+    "name": "LAXALT",
+    "time": "97m10s",
+    "distanceRan": "9832",
+    "sprints": "31",
+    "topSpeed": "33.30"
+  },
+  {
+    "name": "CACERES",
+    "time": "97m10s",
+    "distanceRan": "9469",
+    "sprints": "27",
+    "topSpeed": "28.80"
+  },
+  {
+    "name": "C. RODRIGUEZ",
+    "time": "36m14s",
+    "distanceRan": "3557",
+    "sprints": "15",
+    "topSpeed": "29.48"
+  },
+  {
+    "name": "GOMEZ",
+    "time": "36m36s",
+    "distanceRan": "4037",
+    "sprints": "8",
+    "topSpeed": "23.76"
+  },
+  {
+    "name": "URRETAVISCAYA",
+    "time": "22m20s",
+    "distanceRan": "2525",
+    "sprints": "8",
+    "topSpeed": "27.90"
+  }
+]
